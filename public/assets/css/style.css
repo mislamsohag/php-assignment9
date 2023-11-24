@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;700&family=Playfair+Display&family=Poppins:wght@500&family=Roboto:wght@500&family=Source+Sans+Pro&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.head-section {
+    display: flex;
+    background: url('../images/header-bg.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 40px 5%;
+}
+
+.heading-special {
+    color: gold;
+}
+h3 {
+    color: rgb(221, 185, 117);
+}
+.content-width {
+    width: 50%;
+}
+.content-width img {
+    width: 70%;
+}
+.font-color {
+    color: #fff;
+}
+.link-button a {
+    color:#fff;
+    background-image: linear-gradient(orange, blue);
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5%;   
+}
+.about-section {
+    display: flex;
+    padding: 40px 5%;
+}
+.expireance-section {
+    padding: 0px 5%;
+}
+.expireance-field {
+    display: flex;    
+}
+.text-center {
+    text-align: center;
+}
+.field-border {
+    margin: 0 5px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px blueviolet dotted;
+}
+.contact-section {
+    margin-top: 80px;
+    padding: 20px 5%;
+    background-color: grey;
+    
+}
+.contact-content {
+    display: flex;
+    justify-content: space-between;    
+}
+.shadow {
+    border-radius: 10px;
+    padding: 10px 50px;
+    box-shadow: 10px 10px 50px white;
+}
