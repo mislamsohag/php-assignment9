@@ -3,7 +3,7 @@
     <div class="my-5">
         <div class="row g-5">
             <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="text-center text-black-50 p-3 shadow-lg rounded-3">
+                <div class="teamBox text-center text-black-50 p-3 shadow-lg rounded-3">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, molestias? Nulla
                         libero
                         nemo
@@ -11,12 +11,13 @@
                         maxime
                         debitis! Iure, unde.</p>
                     <img src="{{asset('assets/images/person 1.png')}}" alt="">
-                    <h5 class="text-dark fw-bold mt-2">Regina Miles</h5>
-                    <p class="">Android Apps Developer</p>
+                    <h5 class="text-dark fw-bold mt-2">Fakhrul Islam Chowdhury</h5>
+                    <p class="">React Developer</p>
+                    <p class="">Founder at SPTEN</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="text-center text-black-50 p-3 shadow-lg rounded-3">
+                <div class="teamBox text-center text-black-50 p-3 shadow-lg rounded-3">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, molestias? Nulla
                         libero
                         nemo
@@ -24,12 +25,13 @@
                         maxime
                         debitis! Iure, unde.</p>
                     <img src="{{asset('assets/images/person 2.png')}}" alt="">
-                    <h5 class="text-dark fw-bold mt-2">Jone Drake</h5>
-                    <p class="">Flutter Engineer</p>
+                    <h5 class="text-dark fw-bold mt-2">Bijoy Chandra Debnath</h5>
+                    <p class="">Former Android Apps Developer</p>
+                    <p class="">Project Manager, Mobile Apps Developer at CodeWare Limited</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="text-center text-black-50 p-3 shadow-lg rounded-3">
+                <div class="teamBox text-center text-black-50 p-3 shadow-lg rounded-3">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, molestias? Nulla
                         libero
                         nemo

@@ -54,6 +54,14 @@ h3 {
     border: 2px blueviolet dotted;
 }
 
+.projectBox{
+    min-width: 300px;
+    min-height: 300px;
+}
+.teamBox{
+    min-width: 300px;
+    min-height: 370px;
+}
 
 .shadowBg {
     /* border-radius: 10px; */

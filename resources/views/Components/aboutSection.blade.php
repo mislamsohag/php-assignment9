@@ -5,8 +5,8 @@
         </div>
 
         <div class="col-md-6 col-sm-12">
-            <h1>Dream of Mazharul Islam</h1>
-            <h3>Will be a World Width Progrmmer</h3>
+            <h1>Dream of future</h1>
+            <h3>About Me</h3>
             <p>Programming is My first hobby. So I want to learning newbe programming Logic. Now I take on
                 challenging projects with PHP and LARAVEL.<br><br>
 
@@ -14,8 +14,8 @@
                 TellWind CSS and Bootstrap to master the challenge. I Want to establish myself as a skilled
                 developer at the end of the day.
             </p>
-            <div class="pt-5 link-button">
-                <a href="{{url('https://www.linkedin.com/in/md-mazharul-islam-sohag')}}">About Mr. Sohag</a>
+            <div class="pt-3 link-button">
+                <a href="{{url('https://www.facebook.com/mazharulislamsohag95')}}">Social Link</a>
             </div>
         </div>
 

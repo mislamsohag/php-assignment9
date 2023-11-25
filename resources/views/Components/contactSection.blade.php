@@ -13,16 +13,16 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="p-3 m-2 rounded-3 shadowBg">
                     <h2 class="text-center"> Mobile Noumbers </h2>
-                    <p>+880 1812060100</p>
-                    <p>+880 1635757100</p>
-                    <p>+880 1631151152</p>
+                    <p>+880 1812060163</p>
+                    <p>+880 1635757151</p>
+                    <p>+880 1635757152</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="p-3 m-2 rounded-3 shadowBg">
-                    <h2 class="text-center"> Mail Address </h2>
-                    <p>mislam@gmail.com</p>
-                    <p>mazharulislamsohg02@gmail</p>
+                    <h2 class="text-center"> Email Address </h2>
+                    <p>mislamsohag@gmail.com</p>
+                    <p>mazharulislamsohg02@gmail.com</p>
                 </div>
             </div>
         </div>
