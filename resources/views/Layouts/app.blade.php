@@ -2,10 +2,11 @@
 <html lang="en">
 
 <head>
+    <title>Sohag's Portfolio</title>
+    <!-- <title>@yield('title')</title> -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My First Website</title>
     <link rel="preconnect" href="{{url('https://fonts.googleapis.com')}}">
     <link rel="preconnect" href="{{url('https://fonts.gstatic.com')}}" crossorigin>
     <link href="{{url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&family=Source+Sans+Pro&display=swap')}}"
@@ -13,7 +14,8 @@
     <!-- Bootstrap CDN Link -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <!-- Custom Vanila CSS link -->
+        <link rel="stylesheet" href="{{url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css')}}">
+        <!-- Custom Vanila CSS link -->
     <link rel="stylesheet" href="{{asset('assets/css/style.css')}}" type="text/css">
 </head>
 

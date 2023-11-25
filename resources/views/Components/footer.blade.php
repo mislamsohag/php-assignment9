@@ -1,28 +1,33 @@
-<section class="bg-dark  text-light p-3 mt-5">
+
+<footer class="footer_part">
     <div class="container">
-        <div class="row g-4">
-            <!-- Footer left Section -->
-            <div class="col-lg-10 col-md-9 col-sm-8">
-                <div class="footer-tex align-items-center h-100 d-flex">
-                    <p>&copy;
-                        <script>
+        <div class="footer_con">
+            <p class="text-center">&copy;
+                <script>
                             document.write(new Date().getFullYear());
-                        </script>
-                        SohagTech. All rights reserved
-                    </p>
+                </script>
+                SohagTech. All rights reserved
+            </p>
+        </div>
+        <div class="">
+            <div class="social-link">
+                <div class="mb-2 img"><a target="_blank" href="{{url('https://www.facebook.com/mazharulislamsohag95')}}">
+                        <i class="bi bi-facebook"></i></a>
                 </div>
-            </div>
-            <!-- Footer right Section -->
-            <div class="col-lg-2 col-md-3 col-sm-4">
-                <div class="p-2">
-                    <p class="m-0">Get the App</p>
-                    <a href="#">
-                        <img class="w-100" src="{{asset('assets/images/play-store-logo.png')}}" alt="logo"></a>
-                    <a href="#">
-                        <img class="w-100" src="{{asset('assets/images/app-store.png')}}" alt="logo">
-                    </a>
+                <div class="mb-2"><a target="_blank" href="{{url('https://www.instagram.com/mazharulislamsohag95/')}}">
+                        <i class="bi bi-instagram"></i></a>
+                </div>
+                <div class="mb-2"><a target="_blank" href="{{url('https://twitter.com/mazharulislamso')}}">
+                        <i class="bi bi-twitter"></i></a>
+                </div>
+
+                <div class="mb-2"><a target="_blank" href="{{url('https://www.youtube.com/@sohag-tech')}}">
+                        <i class="bi bi-youtube"></i></a>
+                </div>
+                <div class="mb-2"><a target="_blank" href="{{url('https://www.linkedin.com/in/mazharul-islam-sohag/')}}">
+                        <i class="bi bi-linkedin"></i></a>
                 </div>
             </div>
         </div>
     </div>
-</section>
+</footer>

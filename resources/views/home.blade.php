@@ -5,9 +5,9 @@
 @section('contents')
     @include('Components.hero')
     <div class="container">
-    @include('Components.about')
+    @include('Components.aboutSection')
     @include('Components.experiance')
-    @include('Components.contact')
+    @include('Components.contactSection')
     @include('Components.team')
     </div>
 @endsection

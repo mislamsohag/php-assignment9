@@ -75,3 +75,54 @@ h3 {
     padding: 10px 50px;
     box-shadow: 10px 10px 50px white;
 }
+
+
+.social-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.social-link a {
+    text-decoration: none;
+    color: #fff;
+    margin:0 10px;
+}
+.social-link a:hover .bi-facebook {
+    color: #097DEB;
+}
+.social-link a:hover .bi-instagram {
+    color: #D14783;
+}
+.social-link a:hover .bi-twitter {
+    color: #5DA9DD;
+}
+.social-link a:hover .bi-youtube {
+    color: #FE0000;
+}
+.social-link a:hover .bi-linkedin {
+    color: #0A66C2;
+}
+.contact_con_gly img{
+    width: 100px;
+    height: 100px;
+}
+/* Contact Part End */
+
+/* Footer Part Start */
+.footer_part {
+    padding: 15px 0;
+    background: #000;
+    border-top: 1px solid #fff;
+}
+p {
+    margin: 0;
+}
+.footer_con p {
+    color: #fff;
+}
+.footer_con p a {
+    text-decoration: none;
+    color: #FE0000;
+    font-weight: bold;
+}
