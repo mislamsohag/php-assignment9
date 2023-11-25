@@ -2,6 +2,8 @@
 @extends('Layouts.app')
 
 
-@section('contents')    
+@section('contents') 
+<div class="my-5">   
     @include('Components.contactSection')    
+</div>
 @endsection

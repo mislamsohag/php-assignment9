@@ -9,6 +9,13 @@ body {
     font-family: 'Roboto', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
 }
+/* .content-width {
+    width: 50%;
+}
+.content-width img {
+    width: 70%;
+} */
+
 .head-section {
     display: flex;
     background: url('../images/header-bg.png');
@@ -16,7 +23,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    padding: 40px 5%;
+    /* padding: 40px 5%; */
 }
 
 .heading-special {
@@ -25,12 +32,7 @@ body {
 h3 {
     color: rgb(221, 185, 117);
 }
-.content-width {
-    width: 50%;
-}
-.content-width img {
-    width: 70%;
-}
+
 .font-color {
     color: #fff;
 }
@@ -42,37 +44,21 @@ h3 {
     border-radius: 5%;   
 }
 .about-section {
-    display: flex;
-    padding: 40px 5%;
-}
-.expireance-section {
-    padding: 0px 5%;
-}
-.expireance-field {
     display: flex;    
 }
-.text-center {
-    text-align: center;
-}
+
 .field-border {
     margin: 0 5px;
     padding: 20px;
     border-radius: 20px;
     border: 2px blueviolet dotted;
 }
-.contact-section {
-    margin-top: 80px;
-    padding: 20px 5%;
-    background-color: grey;
-    
-}
-.contact-content {
-    display: flex;
-    justify-content: space-between;    
-}
-.shadow {
-    border-radius: 10px;
-    padding: 10px 50px;
+
+
+.shadowBg {
+    /* border-radius: 10px; */
+    min-width: 300px;
+    min-height: 300px;
     box-shadow: 10px 10px 50px white;
 }
 
