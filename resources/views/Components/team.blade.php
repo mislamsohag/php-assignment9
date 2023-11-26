@@ -4,7 +4,7 @@
         <div class="row g-5">
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="teamBox text-center text-black-50 p-3 shadow-lg rounded-3">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, molestias? Nulla
+                    <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, molestias? Nulla
                         libero
                         nemo
                         incidunt consequatur magnam amet, rerum minima molestiae et quia quasi eveniet nisi enim
@@ -18,7 +18,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="teamBox text-center text-black-50 p-3 shadow-lg rounded-3">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, molestias? Nulla
+                    <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, molestias? Nulla
                         libero
                         nemo
                         incidunt consequatur magnam amet, rerum minima molestiae et quia quasi eveniet nisi enim
@@ -32,7 +32,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="teamBox text-center text-black-50 p-3 shadow-lg rounded-3">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, molestias? Nulla
+                    <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, molestias? Nulla
                         libero
                         nemo
                         incidunt consequatur magnam amet, rerum minima molestiae et quia quasi eveniet nisi enim
