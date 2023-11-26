@@ -5,10 +5,9 @@
         </div>
 
         <div class="col-md-6 col-sm-12">
-            <h1 class="m-0 p-0">Dream of future</h1>
-            <h3 class="m-0 p-0">About Me</h3>
-            <h4 class="m-0 p-0">Jr. Web Developer</h4>
-            <p class="text-justify pt-3">Programming is My first hobby. So I want to learning newbe programming Logic. Now I take on
+            <h1 class="m-0 p-0">About Me</h1>
+            <h3 class="m-0 p-0">Jr. Web Developer</h3>            
+            <p class="text-justify pt-3">This is Diploma Engineer in Computer Science and Technology in Chandpur Poly Technic Isntitute. Programming is My first hobby. So I want to learning newbe programming Logic. Now I take on
                 challenging projects with PHP and LARAVEL.<br><br>
 
                 My goal is working with experience in HTML5, CSS3, JavaScript (ES-6), PHP & Laravel, React.Js,

@@ -19,7 +19,7 @@
             <hr>
             <p class="text-justify">Bootstrap and Tailwind CSS are the most popular frameworks of the present time. Bootstrap is at the top of my favorites. I feel comfortable working in this framework. Already created several websites with Bootstrap and Tailwind CSS.</p>
             <div class="pt-2 link-button">
-                <a href="{{url('https://www.facebook.com/mazharulislamsohag95')}}">Go to Live site</a>
+                <a href="{{url('https://simble-firebase-authentication.web.app')}}">Go to Live site</a>
             </div>
         </div>
     </div>
@@ -30,7 +30,7 @@
             <hr>
             <p class="text-justify">PHP & LARAVEL are currently widely used discussed Framwork. Currently 70% of the world's websites are built with PHP & LARAVEL. I feel blessed to work in this framework. Already built several websites with PHP & LARAVEL and am constantly enriching my small knowledge.</p>
                 <div class="pt-2 link-button">
-                <a href="{{url('https://www.facebook.com/mazharulislamsohag95')}}">Go to Live site</a>
+                <a href="{{url('https://pcpartsbd-f68f9.web.app')}}">Go to Live site</a>
             </div>
         </div>
     </div>
